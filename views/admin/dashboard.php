@@ -1,4 +1,6 @@
+
 <style>
+    /* Mis à jour par Mbene */
     /* Grille de statistiques */
     .stats-grid {
         display: grid;

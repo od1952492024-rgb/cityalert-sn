@@ -1,4 +1,5 @@
 <style>
+     /* Mis à jour par Mbene */
     /* Filtres bar */
     .filter-bar {
         display: flex;
